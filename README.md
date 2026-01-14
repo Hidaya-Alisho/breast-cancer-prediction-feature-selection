@@ -71,7 +71,7 @@ The combined model demonstrated marginal improvement in accuracy while increasin
 View the full analysis, modeling pipeline, and visualizations here:
 
 👉 **Google Colab Notebook:**  
-https://colab.research.google.com/drive/1b0StXUhlmGWiXxAZGnCRfDt_CHdRAF_t
+[https://colab.research.google.com/drive/1b0StXUhlmGWiXxAZGnCRfDt_CHdRAF_t](https://colab.research.google.com/drive/1b0StXUhImGWiXxAZGnCRfDt_CHdRAF_t)  
 
 ---
 
